@@ -6,7 +6,15 @@ A game which makes use of classes to have the hero go through a catacomb defeati
 
 ### How to run the Project 
 
-To run it, simply put all of the required files (Actor.java, Dependencies.java, Game.java, GameBoard.java, SaveFile.java, Town.java) in a folder and run the Game.java file
+Make sure you have compiled the files first with:
+```
+bash compile.sh
+```
+Then, run the game with
+```
+bash run.sh
+```
+To exit the game, use ^C
 
 ### Instructions
 
